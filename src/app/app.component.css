@@ -1,0 +1,21 @@
+.darea:hover {
+    fill: #c5c5c5;
+    cursor: pointer;
+    /* stroke: black; */
+    /* pointer-events: all; */
+}
+
+
+
+
+
+
+/* clicked */
+.addBackground {
+    fill: rgb(141, 141, 141);
+}
+
+.addedBackground:hover {
+    fill: rgb(150, 150, 150);
+    cursor: pointer;
+}
